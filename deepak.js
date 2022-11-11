@@ -1,3 +1,4 @@
 fname='deepak'
 lastname='virshette'
-console.log(fname+lastname)
+mob=8080679673
+console.log(fname+lastname+mob)
